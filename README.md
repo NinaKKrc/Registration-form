@@ -20,3 +20,5 @@ Ob kliku na gumb **Create account** se prikaže pogovorno okno z vsemi vnesenimi
 3. **AlertDialog.Builder** – uporablja se za prikaz pogovornega okna.
 4. **editText.getText().toString()** – pridobi besedilo iz vnosnega polja.
 5. **checkBox.isChecked()** – preveri, ali je potrditveno polje označeno.
+
+<img width="242" height="500" alt="registration_form_readme_small" src="https://github.com/user-attachments/assets/99cadf54-028d-489e-8624-f26b1737181b" />
